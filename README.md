@@ -4,7 +4,7 @@ Welcome to my **Data Warehouse Project** repository!  🚀
 
 This project demonstrates end-to-end data engineering — from architecture design to ETL development, dimensional modeling, and analytics enablement — transforming raw source data into structured, business-ready insights using SQL Server and Power BI.
 
-This **SQL Data Warehouse and Analytics Project** is part of a free, hands-on learning initiative by **Data with Baraa**. You can find him on YouTube, where he shares high-quality Data Engineering tutorials at no cost. Definitely check out his channel!
+This **SQL Data Warehouse and Analytics Project** is part of a free, hands-on learning initiative by **[Data with Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE&t=3564s)**. You can find him on YouTube, where he shares high-quality Data Engineering tutorials at no cost. Definitely check out his channel!
 
 ## 📌 Project Overview
 
