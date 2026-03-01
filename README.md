@@ -47,7 +47,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 Hi! I’m **Patricia Marie De Mesa**, and I’m passionate about working with data and its intricacies.
 
-With nearly a decade of professional experience, I transitioned into Data Analytics in 2022 after building my career in **Industrial Engineering and Project Management**. While it may seem like a major shift, many of the core skills I developed — particularly in statistics, problem-solving, and project management — continue to play a vital role in my work today.
+With nearly a decade of professional experience, I transitioned into Data Analytics in 2022 after building my career in **Industrial Engineering and Project Management**. While it may seem like a major shift, many of the core skills I developed particularly in statistics, problem-solving, and project management continue to play a vital role in my work today.
 
 What excites me most about **Data Analytics** is how it has expanded my technical expertise and deepened my understanding of data. I’m inspired by the power of data to generate meaningful insights and drive solutions to real-world problems.
 
