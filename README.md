@@ -6,6 +6,16 @@ This project demonstrates end-to-end data engineering — from architecture desi
 
 This **SQL Data Warehouse and Analytics Project** is part of a free, hands-on learning initiative by **[Data with Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE&t=3564s)**. You can find him on YouTube, where he shares high-quality Data Engineering tutorials at no cost. Definitely check out his channel!
 
+
+## 🏗️ Data Architecture
+The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
+![Data Architecture](docs/Data_Architecture Diagram.png)
+Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
+
+---
+
 ## 📌 Project Overview
 
 The objective of this project is to consolidate data from multiple source systems (ERP and CRM) into a centralized data warehouse optimized for analytical reporting and decision-making.
