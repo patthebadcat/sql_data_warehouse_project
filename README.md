@@ -61,4 +61,8 @@ With nearly a decade of professional experience, I transitioned into Data Analyt
 
 What excites me most about **Data Analytics** is how it has expanded my technical expertise and deepened my understanding of data. I’m inspired by the power of data to generate meaningful insights and drive solutions to real-world problems.
 
+Let's keep in touch!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patriciademesa)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://patthebadcat.github.io/patdemesa.github.io/)
+
 
