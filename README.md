@@ -7,7 +7,7 @@ This project demonstrates end-to-end data engineering — from architecture desi
 This **SQL Data Warehouse and Analytics Project** is part of a free, hands-on learning initiative by **[Data with Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE&t=3564s)**. You can find him on YouTube, where he shares high-quality Data Engineering tutorials at no cost. Definitely check out his channel!
 
 
-## 🏗️ Data Architecture
+## 🏗️ Data Architecture  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/SQL-Data-Warehouse-Project-4b0428fa1b208262b696013380c1cd39?source=copy_link)
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 <img width="1212" height="748" alt="Image" src="https://github.com/user-attachments/assets/8ada39da-012c-474f-a558-489892134818" />
 1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
