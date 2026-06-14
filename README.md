@@ -12,7 +12,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 <img width="1212" height="748" alt="Image" src="https://github.com/user-attachments/assets/8ada39da-012c-474f-a558-489892134818" />
 1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer:** This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
-3. **Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.                                                                  
+3. **Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.                                                                                                                                                                                                                                                  
 _See Notion for the detailed breakdown of Data Architecture steps and associated tasks:_ [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/SQL-Data-Warehouse-Project-4b0428fa1b208262b696013380c1cd39?source=copy_link)
 ---
 
